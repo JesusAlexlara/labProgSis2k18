@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>iconos/abrir-archivo.png</file>
+        <file>iconos/correr.png</file>
+        <file>iconos/deshacer.png</file>
+        <file>iconos/documento.png</file>
+        <file>iconos/guardar.png</file>
+        <file>iconos/guardar-como.png</file>
+        <file>iconos/simular.png</file>
+        <file>iconos/ensamblar.png</file>
+    </qresource>
+</RCC>
